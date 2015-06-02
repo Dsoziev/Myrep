@@ -1,0 +1,7 @@
+Host github.com
+Hostname 10.253.45.27
+User git@github.com
+ForwardAgent yes
+
+Host 10.253.45.27
+ForwardAgent yes
